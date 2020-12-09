@@ -19,6 +19,7 @@ I'm [Siddhant](http://github.com/siddhantjain07), a passionate programmer and DL
   <img align="left" alt="Siddhant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![ViewCount](https://views.whatilearened.today/views/github/siddhantjain07/siddhantjain07.svg)
 <br>
 <br>
 
