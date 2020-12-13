@@ -29,6 +29,7 @@ I'm [Siddhant](http://github.com/siddhantjain07), a passionate programmer and DL
 - Machine learning - **Python, PyTorch, TensorFlow, MlFlow**
 - Backend development - **NodeJs.**
 - Application development using **Flutter** (Learning)
+- Anime fan - **Doragon Bōru, Shingeki no Kyojin**
 - Music - **One Direction**
 
 
