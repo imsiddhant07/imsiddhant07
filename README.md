@@ -28,7 +28,7 @@ I'm [Siddhant](http://github.com/siddhantjain07), a passionate programmer and DL
 - Currently learning about - **GANs, Learn To Rank(LTR), Quantum Computing**
 - Machine learning - **Python, PyTorch, TensorFlow, MlFlow**
 - Backend development - **NodeJs.**
-- Application development using **Flutter** (Learning)
+- Application development - **Flutter** (Learning)
 - Anime - **Doragon Bōru, Shingeki no Kyojin**
 - Music - **One Direction**
 
