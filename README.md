@@ -47,3 +47,5 @@ I'm [Siddhant](http://github.com/siddhantjain07), a passionate programmer and DL
 ![siddhantjain07's github stats](https://github-readme-stats.vercel.app/api?username=siddhantjain07&hide_border=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantjain07&layout=compact)
+
+Easter egg 🥚
