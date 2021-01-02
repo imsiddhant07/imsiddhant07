@@ -1,6 +1,6 @@
 
 ### Hi there👋
-I'm [Siddhant](http://github.com/siddhantjain07), a passionate programmer and DL enthusiast.
+I'm [Siddhant](http://github.com/imsiddhant07), a passionate programmer and DL enthusiast.
 
 <img height=200 align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
