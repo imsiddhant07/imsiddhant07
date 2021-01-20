@@ -12,7 +12,7 @@ I'm [Siddhant](http://github.com/imsiddhant07), a passionate programmer and DL e
 <a href="https://twitter.com/im_siddhannt" target="_blank">
   <img align="left" alt="Siddhant Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/siddhant-jain-ba3148177/" target="_blank">
+<a href="https://www.linkedin.com/in/imsiddhant07/" target="_blank">
   <img align="left" alt="Siddhant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/siddhannt_jain/" target="_blank">
