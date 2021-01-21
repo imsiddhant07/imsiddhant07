@@ -26,7 +26,7 @@ I'm [Siddhant](http://github.com/imsiddhant07), a passionate programmer and DL e
 ### ⚡ Talk to me about
 - Mathematics, Computer Vision & NLP.
 - Currently learning about - **GANs, Learn To Rank(LTR), Quantum Computing**
-- Machine learning - **Python, PyTorch, TensorFlow, MlFlow**
+- Machine learning - **Python, Julia, PyTorch, TensorFlow, MlFlow**
 - Backend development - **NodeJs, Django**
 - Application development - **Flutter** (Learning)
 - Anime - **Doragon Bōru, Shingeki no Kyojin**
