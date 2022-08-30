@@ -9,7 +9,7 @@ I'm [Siddhant](http://github.com/imsiddhant07), a passionate programmer and DL e
 </a>
 
 </a>
-<a href="https://twitter.com/im_siddhannt" target="_blank">
+<a href="https://twitter.com/im_siddhantt" target="_blank">
   <img align="left" alt="Siddhant Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/imsiddhant07/" target="_blank">
